@@ -112,3 +112,6 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 # Discussion
 
 We would like to trigger a homogenization of the formats which are used in the python time series community, please see the [concept page](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/standardize_time_series_formats.md)
+
+
+Forked from https://github.com/MaxBenChrist/awesome_time_series_in_python
